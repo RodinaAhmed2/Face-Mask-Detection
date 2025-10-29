@@ -30,8 +30,8 @@ This project includes a simple **Graphical User Interface (GUI)** built with **T
 
 *(You can insert screenshots or GIFs below to visualize your interface)*  
 
-![GUI Demo Image](#)  
-![Prediction Example](#)
+![WhatsApp Image 2025-10-29 at 19 00 05_21af2d3b](https://github.com/user-attachments/assets/a41edf59-4559-4852-92eb-ad8ed231ac7d)
+
 
 ---
 
