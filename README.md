@@ -13,7 +13,7 @@ Developed to support **public safety and health monitoring** during and beyond t
 this project can be integrated into **surveillance cameras**, **access control systems**, and **public places** to ensure compliance with mask-wearing policies.
 
 The system achieves **99.01% training accuracy** and **93.38% validation accuracy**, demonstrating **high reliability and efficiency**.  
-It is built using **TensorFlow**, **Keras**, and **OpenCV**, and includes a **user-friendly GUI** developed with **Tkinter**.
+It is built using **TensorFlow**, **Keras**, and **OpenCV**, and includes a **user-friendly GUI** developed with **Tkinter**
 
 ---
 
