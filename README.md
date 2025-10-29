@@ -65,6 +65,8 @@ A custom **lightweight CNN** was built to ensure **fast inference** and **high a
 - 🔹 Loss Function: **Categorical Crossentropy**  
 - 🔹 Epochs: **10**  
 - 🔹 Batch Size: **32**
+- ![WhatsApp Image 2025-10-29 at 19 00 31_f53a6c81](https://github.com/user-attachments/assets/59cb488d-afab-4c0f-9633-9c2693261612)
+
 
 ---
 
