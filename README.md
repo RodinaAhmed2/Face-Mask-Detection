@@ -58,7 +58,8 @@ A custom **lightweight CNN** was built to ensure **fast inference** and **high a
 | **Conv2D (64, 3×3, ReLU)** → **MaxPooling2D (2×2)** | Extracts high-level features |
 | **Flatten** | Converts 2D maps into 1D |
 | **Dense (128, ReLU)** → **Dense (2, Softmax)** | Classifies “Mask” vs “No Mask” |
-![WhatsApp Image 2025-10-29 at 19 01 01_9ff7aad2](https://github.com/user-attachments/assets/88db77ca-89aa-4c23-acf0-53f55f9224e3)
+
+![WhatsApp Image 2025-10-29 at 19 01 01_03270893](https://github.com/user-attachments/assets/2b7130a3-1901-40fc-afbc-6c8d255741a6)
 
 
 **Training Configuration**
