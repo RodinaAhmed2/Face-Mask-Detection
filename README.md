@@ -82,7 +82,7 @@ A custom **lightweight CNN** was built to ensure **fast inference** and **high a
 | **Actual: Without Mask** | ❌ 59 (FP) | ✅ 702 (TN) |
 
 *(Insert your confusion matrix heatmap here)*  
-![Uploading with_mask_3340.jpg…]()
+![WhatsApp Image 2025-10-29 at 18 59 54_113c3450](https://github.com/user-attachments/assets/830abaf6-7433-40f3-b37f-f7d315e1b0dd)
 
 ---
 
